@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+data/*.csv
+output/
+output_mesh*/
+output_umls*/
+output_mondo*/
+references/downloads/
+references/*.xml
+references/*.txt
+references/*.pdf
+references/assets.json
